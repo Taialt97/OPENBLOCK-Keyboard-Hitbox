@@ -3,6 +3,8 @@
 
 Welcome to our custom Fight-Stick Project. This project aims to create an open-source, modular, and easy-to-understand design for a fight-stick layout using the Arduino Pro Micro as the core. Our goal is to make the project as accessible and customizable as possible, providing users with the flexibility to adapt the design to their specific needs.
 
+![Bottom](https://github.com/Taialt97/mini-hitbox-pcb/assets/45160819/bd3939f3-17c9-43e0-8987-4a9b61269e5a)
+
 ### Features
 
 - **Comprehensive Design Files**: The project includes not only the PCB design but also the STL and Fusion 360 files for the plate and case. Additionally, a comprehensive drawing with all the plate dimensions is available for your convenience.
