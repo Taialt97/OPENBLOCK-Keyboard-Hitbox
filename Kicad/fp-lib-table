@@ -1,4 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "Hitbox_PCB")(type "KiCad")(uri "${KIPRJMOD}/Hitbox_PCB.pretty")(options "")(descr ""))
-)
