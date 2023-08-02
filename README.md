@@ -63,6 +63,17 @@ Keypad keypad = Keypad(makeKeymap(keys), pin_rows, pin_column, ROW_NUM, COL_NUM)
 
 void setup() {
   Serial.begin(9600);
+
+  // Setup rows as outputs and set them high (they are active low)
+  for (byte r = 0; r < ROW_NUM; r++) {
+    pinMode(pin_rows[r], OUTPUT);
+    digitalWrite(pin_rows[r], HIGH);
+  }
+
+  // Setup columns as inputs with internal pull-up resistors
+  for (byte c = 0; c < COL_NUM; c++) {
+    pinMode(pin_column[c], INPUT_PULLUP);
+  }
 }
 
 void loop() {
