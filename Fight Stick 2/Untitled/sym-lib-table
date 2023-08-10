@@ -1,0 +1,9 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "kbdd")(type "KiCad")(uri "/Users/taialt/Documents/Fight Stick 2/kbd-0.9.0/kicad-symbols/kbd.kicad_sym")(options "")(descr ""))
+  (lib (name "marbastlib-choc")(type "KiCad")(uri "/Users/taialt/Documents/Fight Stick 2/KiCAD-PCM-2023.08.09/symbols/marbastlib-choc.kicad_sym")(options "")(descr ""))
+  (lib (name "marbastlib-mx")(type "KiCad")(uri "/Users/taialt/Documents/Fight Stick 2/KiCAD-PCM-2023.08.09/symbols/marbastlib-mx.kicad_sym")(options "")(descr ""))
+  (lib (name "marbastlib-promicroish")(type "KiCad")(uri "/Users/taialt/Documents/Fight Stick 2/KiCAD-PCM-2023.08.09/symbols/marbastlib-promicroish.kicad_sym")(options "")(descr ""))
+  (lib (name "marbastlib-various")(type "KiCad")(uri "/Users/taialt/Documents/Fight Stick 2/KiCAD-PCM-2023.08.09/symbols/marbastlib-various.kicad_sym")(options "")(descr ""))
+  (lib (name "kbd")(type "KiCad")(uri "/Users/taialt/Documents/Fight Stick 2/kbd-0.9.0/kicad-symbols/kbd.kicad_sym")(options "")(descr ""))
+)

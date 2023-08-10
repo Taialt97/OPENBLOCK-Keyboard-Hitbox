@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "kbd")(type "KiCad")(uri "/Users/taialt/Documents/Fight Stick 2/kbd-0.9.0/kicad-footprints/kbd.pretty")(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "/Users/taialt/Documents/Fight Stick 2/KiCAD-PCM-2023.08.09/footprints")(options "")(descr ""))
+  (lib (name "keyswitches.pretty-2.1")(type "KiCad")(uri "/Users/taialt/Documents/Fight Stick 2/keyswitches.pretty-2.1")(options "")(descr ""))
+  (lib (name "Keebio-Parts.pretty-master")(type "KiCad")(uri "/Users/taialt/Documents/Fight Stick 2/Keebio-Parts.pretty-master")(options "")(descr ""))
+)
