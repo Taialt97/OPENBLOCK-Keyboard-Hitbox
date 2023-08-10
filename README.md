@@ -26,6 +26,9 @@ Welcome to our custom Fight-Stick Project. This project aims to create an open-s
 - [ ] In-depth explanation of the board's capabilities and operations
 - [ ] One-click purchase option (via PCBWays or JLCPCB)
 - [ ] Essential Component List Including Microcontrollers
+- [ ] Rewrite the code, there is a problem with the input latency.
+
+
 ### BOM 
 | Designator | Footprint | Quantity | Value | Part # | LCSC Part # |
 |------------|-----------|----------|-------|--------|-------------|
