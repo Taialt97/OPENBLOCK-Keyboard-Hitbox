@@ -1,5 +1,7 @@
 ### Introduction
 
+THE PROJECT IS STILL IN DEVELOPMENT. I'M WORKING HARD TO MAKE A VERSION THATE WILL WORK FOR EVERYONE.
+
 Welcome to our custom Fight-Stick Project. This project aims to create an open-source, modular, and easy-to-understand design for a fight-stick (Hit Box) layout using the Arduino Pro Micro as the core. My goal is to make the project as accessible and customizable as possible, providing everyone with the flexibility to adapt the design to their specific needs.
 
 ![Bottom](https://github.com/Taialt97/mini-hitbox-pcb/assets/45160819/bd3939f3-17c9-43e0-8987-4a9b61269e5a)
