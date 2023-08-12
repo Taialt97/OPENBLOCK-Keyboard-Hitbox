@@ -38,4 +38,4 @@ The most important thing for me with this project was to provide a learning expe
 # Note
 This project is an open-source initiative. It has been made as modular as possible, making it easy to understand and modify in the future. I believe in the power of community and collaboration, and welcome contributions and suggestions from all those interested in this project.
 
-
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="taialt" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
