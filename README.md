@@ -15,6 +15,8 @@ My goal is to make the project as accessible and customizable as possible, provi
 
 OVERALL, THE COST FOR THIS PROJECT COULD CHANGE DEPENDING ON THE TOOLS YOU HAVE AND ACCESS TO MATERIALS YOU HAVE AS WELL.
 
+## Part List 
+
 The most important thing for me with this project was to provide a learning experience to anyone interested in PCB design, 3D printing, soldering, and more, all while keeping the cost to the bare minimum. Unfortunately, you still have to pay for the parts needed and the PCB, but to ensure you don't spend on unnecessary items while still learning, I handled all the spending for you. I've assembled a list of everything you'll need to complete this project, and I'll strive to keep this list updated. Shipping could change the cost dramatically, so I did not include links. [AliExpress](https://www.aliexpress.com) is probably the best place to get all the electronic components. Amazon is not so great due to high prices and low-quality items, but you can find decent items there. Other than that, here is a list of all the things you should get, with alternatives as well.
 
 - PCB | $8 (without shipping)
@@ -23,7 +25,7 @@ The most important thing for me with this project was to provide a learning expe
 - Switch | $5-$50 (huge difference between manufacturers and "quality" of the switch)
 - Pro Micro | $4-$30 (Depends on the manufacturer and variant, make sure the chip is **atmega32u4**)
 
-#### Recommended
+## Recommended
 
 - KESTER SOLDER | $35-$60 (by far the most pricey, you can manage with any other soldering wire, but this one is by far the best solder I have)
 - PINECIL – Smart Mini Portable Soldering Iron (Version 2) | $25.99-$35.99
@@ -35,5 +37,4 @@ The most important thing for me with this project was to provide a learning expe
 
 # Note
 This project is an open-source initiative. It has been made as modular as possible, making it easy to understand and modify in the future. I believe in the power of community and collaboration, and welcome contributions and suggestions from all those interested in this project.
-
 
