@@ -1,7 +1,7 @@
 
 [[How to export from KiCad to JLC]]
 
-### Introduction
+## Introduction
 THE PROJECT IS STILL IN DEVELOPMENT. I'M WORKING HARD TO MAKE A VERSION THATE WILL WORK FOR EVERYONE.
 
 This project aims to create an open-source, modular, and easy-to-understand design for a fight-stick (Hit Box) layout using the Arduino Pro Micro as the core.
@@ -10,7 +10,7 @@ My goal is to make the project as accessible and customizable as possible, provi
 ![top](https://github.com/Taialt97/mini-hitbox-pcb/assets/45160819/a9b5a59a-0500-422f-be36-5845a719662f)
 ![bot](https://github.com/Taialt97/mini-hitbox-pcb/assets/45160819/0649b3d5-1120-448b-bb93-668e5914f3f8)
 
-### Lets Talk About Cost
+## Lets Talk About Cost
 
 1. Just the PCB (order minimum is 5 PCBs) without shipping is **$8**, and shipping will differ depending on where you ship to and the shipping method.
 2. The parts you will need to assemble the PCB will cost about **$25** (hot swap sockets, keys, switches, Pro Micro, and IC Sockets).
@@ -31,12 +31,12 @@ The most important thing for me with this project was to provide a learning expe
 - KESTER SOLDER | $35-$60 (by far the most pricey, you can manage with any other soldering wire, but this one is by far the best solder I have)
 - PINECIL – Smart Mini Portable Soldering Iron (Version 2) | $25.99-$35.99
 
-### Features
+## Features
 - **Comprehensive Design Files**: The project includes not only the PCB design but also the STL and Fusion 360 files for the plate and case.
 - **Connectivity**: The PCB offers both direct and hot-swap connectivity. This allows users the choice between soldering hot-swap sockets or directly soldering switches onto the PCB, providing a great deal of flexibility in how the board is assembled.
 - **Compatibility**: The PCB can be compatible with Pro Micro, more microcontrollers will be added in the future
 
-### Note
+## Note
 This project is an open-source initiative. It has been made as modular as possible, making it easy to understand and modify in the future. I believe in the power of community and collaboration, and welcome contributions and suggestions from all those interested in this project.
 
 
