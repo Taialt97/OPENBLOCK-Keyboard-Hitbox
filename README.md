@@ -1,4 +1,8 @@
 # Introduction
+
+ [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Version: 2.0.0](https://img.shields.io/badge/Version-2.0.0-blue.svg)](https://github.com/your-repo-link)
+
+
 THE PROJECT IS STILL IN DEVELOPMENT. I'M WORKING HARD TO MAKE A VERSION THATE WILL WORK FOR EVERYONE.
 
 This project aims to create an open-source, modular, and easy-to-understand design for a fight-stick (Hit Box) layout using the Arduino Pro Micro as the core.
