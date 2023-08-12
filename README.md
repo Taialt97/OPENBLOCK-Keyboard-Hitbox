@@ -1,3 +1,6 @@
+
+[[How to export from KiCad to JLC]]
+
 # Introduction
 THE PROJECT IS STILL IN DEVELOPMENT. I'M WORKING HARD TO MAKE A VERSION THATE WILL WORK FOR EVERYONE.
 
@@ -25,7 +28,7 @@ The most important thing for me with this project was to provide a learning expe
 - Switch | $5-$50 (huge difference between manufacturers and "quality" of the switch)
 - Pro Micro | $4-$30 (Depends on the manufacturer and variant, make sure the chip is **atmega32u4**)
 
-## Recommended
+### Recommended
 
 - KESTER SOLDER | $35-$60 (by far the most pricey, you can manage with any other soldering wire, but this one is by far the best solder I have)
 - PINECIL – Smart Mini Portable Soldering Iron (Version 2) | $25.99-$35.99
@@ -37,4 +40,5 @@ The most important thing for me with this project was to provide a learning expe
 
 # Note
 This project is an open-source initiative. It has been made as modular as possible, making it easy to understand and modify in the future. I believe in the power of community and collaboration, and welcome contributions and suggestions from all those interested in this project.
+
 
