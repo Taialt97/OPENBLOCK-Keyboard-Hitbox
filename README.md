@@ -1,6 +1,7 @@
 
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]( https://opensource.org/licenses/MIT ) [![Version: 2.0.0](https://img.shields.io/badge/Version-2.0.0-blue.svg)]( https://github.com/your-repo-link )
  
+
 # Introduction
 This project is in development, focusing on a universal fight-stick (Hit Box) layout. With the Arduino Pro Micro and the option of using either the Pro Micro mega32u4 chip or the GP2040 chip, the design aims for open-source, modular, and accessible customization.
 
@@ -11,12 +12,12 @@ This project is in development, focusing on a universal fight-stick (Hit Box) la
 - **Pro Micro mega32u4 chip**: A more budget-friendly option.
 - **GP2040 chip**: Offers higher compatibility with PC, PS4, PS3, Switch, and Xbox.
 
-| ProMicro (Mega32U4) | RespbarryPie (GP2040) | NameOfSwitch | Action      | PlayStation   | NameOfButton   | Xbox       | NameOfButton   |
-|---------------------|-----------------------|--------------|-------------|---------------|----------------|------------|----------------|
-| 6                   | 6                     | MX10         | UP          |               | UP             |            |                |
-| 14                  | 20                    | MX2          | DOWN        |               | DOWN           |            |                |
-| 16                  | 23                    | MX1          | LEFT        |               | LEFT           |            |                |
-| 15                  | 22                    | MX3          | RIGHT       |               | RIGHT          |            |                |
+| ProMicro (Mega32U4) | RespbarryPie (GP2040) | NameOfSwitch | Action      | PlayStation   | Xbox   |
+|---------------------|-----------------------|--------------|-------------|---------------|----------------|
+| 6                   | 6                     | MX10         | Up         | Dpad Up   | Dpad Up             |            |                |
+| 14                  | 20                    | MX2          | Down        |Dpad Down   | Dpad Down           |            |                |
+| 16                  | 23                    | MX1          | Left        | Dpad Left   | Dpad Left           |            |                |
+| 15                  | 22                    | MX3          | Right       | Dpad Right       | Dpad Right          |            |                |
 | 21                  | 29                    | MX4          | Light Punch | Square        | X              |            |                |
 | 5                   | 5                     | MX11         | Light Kick  | X             | A              |            |                |
 | 4                   | 4                     | MX5          | Medium Punch| Circle        | B              |            |                |
@@ -36,6 +37,19 @@ The cost to build the fight-stick will depend on parts, shipping, and tools. Bel
 3. Tools: Varies widely, but a cost-effective approach is possible.
 
 ## Part List
+### Micro Chips List
+Below is a list of top-tier microcontrollers that I've found to be the best in the market. While more cost-effective alternatives are available from sites like Aliexpress (which I've personally tested and found satisfactory), the following options are slightly more expensive but come with a guarantee of proper functionality.
+
+If you're using a different 12-pin microcontroller that you think should be included here, feel free to leave a comment!
+
+1. [Elite-C V4 - USB-C Pro Micro Replacement ATmega32u4](https://keeb.io/collections/diy-parts/products/elite-c-low-profile-version-usb-c-pro-micro-replacement-atmega32u4) 
+2. [Elite-Pi - USB-C Pro Micro Replacement RP2040 Controller](https://keeb.io/collections/diy-parts/products/elite-pi-usb-c-pro-micro-replacement-rp2040)
+3. [SparkFun Pro Micro - 5V/16MHz ](https://www.sparkfun.com/products/12640)
+4. [SparkFun Qwiic Pro Micro - USB-C (ATmega32U4)](https://www.sparkfun.com/products/15795)
+5. [SparkFun Pro Micro - 3.3V/8MHz](https://www.sparkfun.com/products/12587)
+6. [SparkFun Pro Micro - RP2040](https://www.sparkfun.com/products/18288)
+
+### Parts List
 To ensure affordability, I've listed essential parts and some alternatives:
 
 - PCB | $8 (without shipping)
