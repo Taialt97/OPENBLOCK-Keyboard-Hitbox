@@ -70,7 +70,7 @@ To ensure affordability, I've listed essential parts and some alternatives:
 # Note
 This project is an open-source initiative, designed for modularity and ease of understanding. Contributions and suggestions from the community are welcome, fostering collaboration and growth.
 
-## Sponsorship
+# Sponsorship
 This repository is proudly sponsored by [PCBWay](https://www.pcbway.com/).
 [![PCBWay](https://www.pcbway.com/img/logo2.png)](https://www.pcbway.com/)
 PCBWay specializes in manufacturing high-quality PCBs. They offer a range of services including PCB prototyping, assembly, and much more. We are grateful for their support in making this project possible.
