@@ -58,8 +58,9 @@ To ensure affordability, I've listed essential parts and some alternatives:
 
 # Code
 
-Upon connecting the microcontroller to your computer, a new drive will appear. Drag the `nuke.h` file into this drive; the microcontroller will disconnect and then reconnect.
-Next, drag the `OpenBlock.h` file into the drive. You'll hear a sound indicating that the drive has disconnected and reconnected.
+Upon connecting the microcontroller to your computer, a new drive will appear. 
+- Drag the `nuke.h` file into this drive; the microcontroller will disconnect and then reconnect.
+- Drag the `OpenBlock.h` file into the drive. You'll hear a sound indicating that the drive has disconnected and reconnected.
 To test your controller, visit the [Gamepad Tester Website](https://hardwaretester.com/gamepad).
 For modifying the code or creating new code, go to the [GP2040-CE](https://gp2040-ce.info/#/) website.
 There, you'll find all the resources you need to customize or create new code. If you have any questions, refer to our [Discord channel](https://discord.gg/kJDAZVwU) — they're awesome!
