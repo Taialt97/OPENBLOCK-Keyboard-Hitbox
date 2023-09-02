@@ -3,12 +3,11 @@
  
 
 # Introduction
-This project is in development, focusing on a universal fight-stick (Hit Box) layout. With the Arduino Pro Micro and the option of using either the Pro Micro mega32u4 chip or the GP2040 chip, the design aims for open-source, modular, and accessible customization.
+This project aims to create an open-source, modular, and easy-to-understand design for a Hit Box layout using the Raspberry Pi (RP2040) as the core. My goal is to make the project as accessible and customizable as possible, providing everyone with the flexibility to adapt the design to their specific needs.
 
 ![downImg(2)](https://github.com/Taialt97/The-Fighter-Mini-Hitbox-PCB-Guide/assets/45160819/33555f3e-2cb2-453c-9b36-5af131ce8e13)
 
 ## Chip Compatibility
-- **Pro Micro mega32u4 chip**: A more budget-friendly option.
 - **GP2040 chip**: Offers higher compatibility with PC, PS4, PS3, Switch, and Xbox.
 
 | ProMicro (Mega32U4) | RespbarryPie (GP2040) | NameOfSwitch | Action      | PlayStation   | Xbox   |
@@ -41,12 +40,8 @@ Below is a list of top-tier microcontrollers that I've found to be the best in t
 
 If you're using a different 12-pin microcontroller that you think should be included here, feel free to leave a comment!
 
-1. [Elite-C V4 - USB-C Pro Micro Replacement ATmega32u4](https://keeb.io/collections/diy-parts/products/elite-c-low-profile-version-usb-c-pro-micro-replacement-atmega32u4) 
-2. [Elite-Pi - USB-C Pro Micro Replacement RP2040 Controller](https://keeb.io/collections/diy-parts/products/elite-pi-usb-c-pro-micro-replacement-rp2040)
-3. [SparkFun Pro Micro - 5V/16MHz ](https://www.sparkfun.com/products/12640)
-4. [SparkFun Qwiic Pro Micro - USB-C (ATmega32U4)](https://www.sparkfun.com/products/15795)
-5. [SparkFun Pro Micro - 3.3V/8MHz](https://www.sparkfun.com/products/12587)
-6. [SparkFun Pro Micro - RP2040](https://www.sparkfun.com/products/18288)
+1. [Elite-Pi - USB-C Pro Micro Replacement RP2040 Controller](https://keeb.io/collections/diy-parts/products/elite-pi-usb-c-pro-micro-replacement-rp2040)
+2. [SparkFun Pro Micro - RP2040](https://www.sparkfun.com/products/18288)
 
 ### Parts List
 To ensure affordability, I've listed essential parts and some alternatives:
@@ -55,7 +50,7 @@ To ensure affordability, I've listed essential parts and some alternatives:
 - (optional) Hot-swappable PCB socket | $3
 - Keycaps | $5-$15 (depends on quality)
 - Switch | $5-$50 (depends on the manufacturer and "quality" of the switch)
-- Pro Micro | $4-$30 (ensure the chip is **atmega32u4**)
+- Pro Micro | $4-$30 (ensure the chip is **RP2040**)
 
 ### Recommended
 - KESTER SOLDER | $35-$60 (quality soldering wire)
