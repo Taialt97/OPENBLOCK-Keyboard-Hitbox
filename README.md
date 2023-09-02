@@ -5,8 +5,7 @@
 # Introduction
 This project is in development, focusing on a universal fight-stick (Hit Box) layout. With the Arduino Pro Micro and the option of using either the Pro Micro mega32u4 chip or the GP2040 chip, the design aims for open-source, modular, and accessible customization.
 
-![top](https://github.com/Taialt97/mini-hitbox-pcb/assets/45160819/a9b5a59a-0500-422f-be36-5845a719662f)
-![bot](https://github.com/Taialt97/mini-hitbox-pcb/assets/45160819/0649b3d5-1120-448b-bb93-668e5914f3f8)
+![downImg(2)](https://github.com/Taialt97/The-Fighter-Mini-Hitbox-PCB-Guide/assets/45160819/33555f3e-2cb2-453c-9b36-5af131ce8e13)
 
 ## Chip Compatibility
 - **Pro Micro mega32u4 chip**: A more budget-friendly option.
