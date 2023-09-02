@@ -56,7 +56,7 @@ To ensure affordability, I've listed essential parts and some alternatives:
 - KESTER SOLDER | $35-$60 (quality soldering wire)
 - PINECIL – Smart Mini Portable Soldering Iron (Version 2) | $25.99-$35.99
 
-#Code 
+# Code 
 Upon connecting the microcontroller to your computer, a new drive will appear. Drag the `nuke.h` file into this drive; the microcontroller will disconnect and then reconnect.
 Next, drag the `OpenBlock.h` file into the drive. You'll hear a sound indicating that the drive has disconnected and reconnected.
 To test your controller, visit the [Gamepad Tester Website](https://hardwaretester.com/gamepad).
