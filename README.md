@@ -70,8 +70,23 @@ There, you'll find all the resources you need to customize or create new code. I
 This project is an open-source initiative, designed for modularity and ease of understanding. Contributions and suggestions from the community are welcome, fostering collaboration and growth.
 
 # Sponsorship
-This repository is proudly sponsored by [PCBWay](https://www.pcbway.com/).
+This repository is sponsored by [PCBWay](https://www.pcbway.com/).
 [![PCBWay](https://www.pcbway.com/img/logo2.png)](https://www.pcbway.com/)
 PCBWay specializes in manufacturing high-quality PCBs. They offer a range of services including PCB prototyping, assembly, and much more. We are grateful for their support in making this project possible.
+Simplify Your Custom PCB Orders with PCBWay
+
+Ordering custom PCBs has never been easier, thanks to PCBWay's intuitive platform. With the 'Instant Quote' feature, you can swiftly enter crucial information such as PCB type, dimensions, and material. Plus, helpful tooltips and guides are there to assist you every step of the way.
+Unmatched Verification Process
+
+What sets PCBWay apart is their meticulous verification process. Once you upload your Gerber files, a team of experts scrutinizes them for any errors or omissions. You'll be promptly notified of any issues via email or directly on the platform, ensuring a nearly error-free process.
+Real-Time Project Tracking
+
+PCBWay takes your experience up a notch by offering real-time project tracking. This level of transparency allows you to better manage your project timelines and make well-informed decisions.
+Reliable and Fast Shipping
+
+When it's time to ship, PCBWay provides trustworthy options like DHL, FedEx, and OCS. Need it fast? Expedited shipping is available right from the get-go. In a recent test run, the entire process—from uploading the Gerber files to receiving the finished PCBs—took just six days.
+Conclusion
+
+PCBWay is a top choice for anyone transitioning from generic to custom PCBs. The platform excels in ease of use, quality control, and speed, making it ideal for specialized projects.
 For more information, visit their [website](https://www.pcbway.com/).
 
