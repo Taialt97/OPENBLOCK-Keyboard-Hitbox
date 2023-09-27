@@ -1,6 +1,6 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]( https://opensource.org/licenses/MIT ) [![Version: 2.0.0](https://img.shields.io/badge/Version-2.0.0-blue.svg)]( https://github.com/your-repo-link )
 
- [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]( https://opensource.org/licenses/MIT ) [![Version: 2.0.0](https://img.shields.io/badge/Version-2.0.0-blue.svg)]( https://github.com/your-repo-link )
- 
+>:warning: This project is currently under development; the PCBs have not been tested and may require additional optimization.
 
 # Introduction
 This project aims to create an open-source, modular, and easy-to-understand design for a Hit Box layout using the Raspberry Pi (RP2040) as the core. My goal is to make the project as accessible and customizable as possible, providing everyone with the flexibility to adapt the design to their specific needs.
