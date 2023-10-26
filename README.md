@@ -5,6 +5,7 @@
 # Introduction
 This project aims to create an open-source, modular, and easy-to-understand design for a Hit Box layout using the Raspberry Pi (RP2040) as the core. My goal is to make the project as accessible and customizable as possible, providing everyone with the flexibility to adapt the design to their specific needs.
 
+![downImg](https://github.com/Taialt97/OPENBLOCK-Keyboard-Hitbox/assets/45160819/8079fa98-edcc-4a29-aaa4-8665f9008b38)
 ![downImg(2)](https://github.com/Taialt97/The-Fighter-Mini-Hitbox-PCB-Guide/assets/45160819/33555f3e-2cb2-453c-9b36-5af131ce8e13)
 
 ## Chip Compatibility
